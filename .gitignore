@@ -22,3 +22,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Personal development notes
+notes/
